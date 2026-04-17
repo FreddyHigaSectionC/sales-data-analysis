@@ -108,11 +108,11 @@ The dataset contains sales transactions with the following key fields:
 ---
 
 ## 🧠 Key Insights
-- The West region generated the highest revenue, indicating strong market performance.  
+- The North region generated the highest revenue, indicating strong market performance.  
 - Returning customers contributed more revenue than new customers.  
-- Furniture and Electronics categories were the main revenue drivers.  
-- Sales performance varies significantly between sales representatives.  
-- Some high-revenue products are not the most profitable, highlighting the importance of cost control.  
+- Clothing and Furniture categories were the main revenue drivers.  
+- Sales performance varies significantly between sales representatives, with clear differences between top and bottom performers. 
+- Higher revenue does not guarantee higher profitability, as lower-revenue products can achieve better margins and generate more profit per sale.
 - Regional differences suggest opportunities for targeted strategies.  
 
 ---
