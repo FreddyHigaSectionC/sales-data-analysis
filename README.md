@@ -12,7 +12,7 @@ The goal is to support data-driven decision-making through structured queries an
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/tableau-dashboard.png)
 
 ---
 
