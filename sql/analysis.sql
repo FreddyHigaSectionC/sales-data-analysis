@@ -69,7 +69,9 @@ ORDER BY revenue DESC;
 SELECT product_id, 
     SUM(quantity_sold * unit_price) AS revenue,
     SUM(quantity_sold * unit_cost) AS cost,
-    SUM((unit_price - unit_cost) * quantity_sold) AS profit
+    SUM((unit_price - unit_cost) * quantity_sold) AS profit,
+    SUM((unit_price - unit_cost) * quantity_sold) 
+        / SUM(quantity_sold * unit_price) AS profit_margin
 FROM sales
 GROUP BY product_id
 ORDER BY profit DESC;
