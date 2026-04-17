@@ -11,6 +11,11 @@ The goal is to support data-driven decision-making through structured queries an
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard Screenshot](images/dashboard.png)
+
+---
+
 ## 🎯 Project Objectives
 - Analyze revenue and transaction patterns
 - Identify top-performing regions and sales representatives
