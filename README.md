@@ -113,7 +113,7 @@ The dataset contains sales transactions with the following key fields:
 - Clothing and Furniture categories were the main revenue drivers.  
 - Sales performance varies significantly between sales representatives, with clear differences between top and bottom performers. 
 - Higher revenue does not guarantee higher profitability, as lower-revenue products can achieve better margins and generate more profit per sale.
-- Regional differences suggest opportunities for targeted strategies.  
+- Regional performance varies, with North highest and South lowest, highlighting opportunities for targeted improvement in weaker regions.
 
 ---
 
