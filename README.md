@@ -50,6 +50,11 @@ The dataset contains sales transactions with the following key fields:
 
 ---
 
+## 🌐 Data Source
+This project uses a synthetic sales dataset obtained from Kaggle. The data simulates sales transactions across products, regions, and customers, and is intended for practice and analysis purposes only.
+
+---
+
 ## 📈 Analysis Performed
 
 ### 1. Overall Performance
